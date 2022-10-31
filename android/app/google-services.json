@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14861479788",
+    "project_id": "siirler-84b54",
+    "storage_bucket": "siirler-84b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14861479788:android:d7729ad528b85181d7cd49",
+        "android_client_info": {
+          "package_name": "com.siirbu.siirler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14861479788-gash1ujce1f4pfdnbmc3foob9lvdpvds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6dhcp1qw762VyCtHcV1nDO8jAGLXGruA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14861479788-gash1ujce1f4pfdnbmc3foob9lvdpvds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
